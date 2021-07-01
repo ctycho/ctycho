@@ -3,16 +3,14 @@
 
 ## Languages and tools
 
-<a href="https://www.cprogramming.com/" target="_blank"><img src="https://simpleicons.org/icons/c.svg" width="26px" alt="C" align="left">
+<!-- <a href="https://www.cprogramming.com/" target="_blank"><img src="https://simpleicons.org/icons/c.svg" width="26px" alt="C" align="left">
 <img src="https://simpleicons.org/icons/cplusplus.svg?color=blue" width="26px" alt="C++"></a>
 
-<a href="https://developer.mozilla.org/en-US/" target="_blank"><img src="utils/js.png" width="26px" alt="C" align="left"></a>
-<!-- <img src="utils/html5.png" width="26px" alt="C" align="left">
-<img src="utils/css3.png" width="26px" alt="C" align="left"></a> -->
+<a href="https://developer.mozilla.org/en-US/" target="_blank"><img src="utils/js.png" width="26px" alt="C" align="left"></a> -->
 
-<!-- <a href="https://www.cprogramming.com/"><img src="utils/html5.png" width="26px" alt="C" align="left">
-<a href="https://www.cprogramming.com/"><img src="utils/css3.png" width="26px" alt="C" align="left"> -->
-
+<img src="https://simpleicons.org/icons/c.svg" width="26px" alt="C" align="left">
+<img src="https://simpleicons.org/icons/cplusplus.svg?color=blue" width="26px" alt="C++">
+<img src="utils/js.png" width="26px" alt="C" align="left">
 
 ## My ecole 42 projects
 
