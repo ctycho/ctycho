@@ -7,7 +7,7 @@
 <img src="https://simpleicons.org/icons/cplusplus.svg?color=blue" width="26px" alt="C++"></a>
 <a href="https://developer.mozilla.org/en-US/"><img src="utils/js.png" width="26px" alt="JS" align="left">
 <img src="utils/html5.png" width="26px" alt="HTML5" align="left">
-<img src="utils/css3.png" width="40px" height="35" alt="CSS3" align="left"></a>
+<img src="utils/css3.png" width="26px" height="46" padding=0 alt="CSS3" align="left"></a>
 
 ## My ecole 42 projects
 
