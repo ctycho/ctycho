@@ -14,5 +14,3 @@
 ### minishell project, beautiful as shell
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ctycho/minishell)](https://github.com/ctycho/minishell)
 
-### Philosophers, multithreading and multiprocessing in C
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ctycho/philosophers)](https://github.com/ctycho/philosophers)
