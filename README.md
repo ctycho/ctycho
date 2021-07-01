@@ -4,9 +4,10 @@
 ## Languages and tools
 
 <a href="https://www.cprogramming.com/" target="_blank"><img src="https://simpleicons.org/icons/c.svg" width="26px" alt="C" align="left">
-<img src="https://simpleicons.org/icons/cplusplus.svg?color=blue" width="26px" alt="C++"></a>
+<img src="https://simpleicons.org/icons/cplusplus.svg?color=blue" width="26px" alt="C++">
 
-<a href="https://developer.mozilla.org/en-US/"><img src="utils/js.png" width="26px" alt="JS" align="left">
+<!-- <a href="https://developer.mozilla.org/en-US/"> -->
+<img src="utils/js.png" width="26px" alt="JS" align="left">
 <img src="utils/html5.png" width="26px" alt="HTML5" align="left">
 <img src="utils/css3.png" width="26px" alt="CSS3" align="left"></a>
 
